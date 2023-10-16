@@ -19,6 +19,6 @@
 
 {"description":"GENERALISTE.","sources":["http://141.95:8081/GENERALISTE/index.m3u89"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTU0NDg2MTBf/mixtstv.jpg","title":"GENERALISTE"},
 
-{"description":"INDIA.","sources":["http://141.95:8081/INDIA/index.m3u89"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MTFf/sportseight.png","title":"INDIA"},
+{"description":"INDIA.","sources":["http://141.95:8081/INDIA/index.m3u89"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTU0NDkxMjZf/india.jpg","title":"INDIA"},
 
 {"description":"INTERNATIONAL.","sources":["http://141.95:8081/WORLD/index.m3u89"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTU0NDg2MDBf/international.png","title":"INTERNATIONAL"}]}]}
