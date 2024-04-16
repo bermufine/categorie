@@ -22,3 +22,5 @@
 {"description":"INDIA.","sources":["http://141.95:8081/INDIA/index.m3u89"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTU0NDkxMjZf/india.jpg","title":"INDIA"},
 
 {"description":"INTERNATIONAL.","sources":["http://141.95:8081/WORLD/index.m3u89"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTU0NDg2MDBf/international.png","title":"INTERNATIONAL"}]}]}
+
+{"description":"Très cher Abonnés de BERO TV , Juste vous informer que pour des raisons d'entretiens techniques, toutes les chaînes seront indisponibles pendant 72h !!! Toutes nos excuses pour les désagréments causés indépendamment de notre volonté. Pour plus de détails, Veuillez nous contacter : congomonpays243@gmail.com","sources":["https://stream.zeno.fm/3rbd2vdzpqlvv.mp39"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODA3NDk0MjVf/urgent.jpg","title":"MESSAGE URGENT"},
