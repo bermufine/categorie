@@ -1,10 +1,11 @@
 # categorie
-{"categories":[{"name":"Movies","videos":[{"description":"SPORTS","sources":["https://linear-491.frequency.stream/hls/SPORTS/playlist.m3u89"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODA3NDk0MjVf/urgent.jpg","title":"MESSAGE URGENT"},
-
+{"categories":[{"name":"Movies","videos":[{"description":"MOVIES","sources":["http://141.95:8081/MOVIES/index.m3u89"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTU0NDg2MTNf/movie.jpg","title":"MOVIES"},
 
 {"description":"SPORTS","sources":["https://linear-491.frequency.stream/hls/SPORTS/playlist.m3u89"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTU0NDg2MjVf/sports.jpg","title":"SPORTS"},
 
 {"description":"NOVELAS","sources":["http://151.248.4444/NOVELAS/index.m3u89"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTU0NDg2MThf/novelas.jpg","title":"NOVELAS"},
+
+{"description":"KIDS","sources":["http://141.95.15:8081/KIDS/index.m3u89"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTU0NDg2MDlf/kidstv.png","title":"KIDS"},
 
 {"description":"NEWS","sources":["http://151.248.:4444/NEWS/index.m3u89"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTU0NDg2MTdf/news.png","title":"NEWS"},
 
@@ -12,18 +13,17 @@
 
 {"description":"TRACE HIT","sources":["http://bl.uma.media/live/HLS/6866944_4/TRACEHIT/playlist.m3u89"],"subtitle":"ByChannel","thumb":"https://od.lk/s/M18yOTU0NDg2Mjlf/tracem.png","title":"TRACE HIT"},
 
+{"description":"INTERNATIONAL.","sources":["http://141.95:8081/WORLD/index.m3u89"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTU0NDg2MDBf/international.png","title":"INTERNATIONAL"},
+
 {"description":"RELIGION","sources":["http://141.95:8081/RELIGION/index.m3u89"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTU0NDg2MjNf/religions.png","title":"RELIGION"},
-
-{"description":"KIDS","sources":["http://141.95.15:8081/KIDS/index.m3u89"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTU0NDg2MDlf/kidstv.png","title":"KIDS"},
-
-{"description":"MOVIES","sources":["http://141.95:8081/MOVIES/index.m3u89"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTU0NDg2MTNf/movie.jpg","title":"MOVIES"},
-
-{"description":"GOSPEL.","sources":["http://141.95:8081/GOSPEL/index.m3u89"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTU0NDg2Mjhf/tracegospel.png","title":"GOSPEL"},
 
 {"description":"GENERALISTE.","sources":["http://141.95:8081/GENERALISTE/index.m3u89"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTU0NDg2MTBf/mixtstv.jpg","title":"GENERALISTE"},
 
-{"description":"INDIA.","sources":["http://141.95:8081/INDIA/index.m3u89"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTU0NDkxMjZf/india.jpg","title":"INDIA"},
+{"description":"GOSPEL.","sources":["http://141.95:8081/GOSPEL/index.m3u89"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTU0NDg2Mjhf/tracegospel.png","title":"GOSPEL"},
 
-{"description":"INTERNATIONAL.","sources":["http://141.95:8081/WORLD/index.m3u89"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTU0NDg2MDBf/international.png","title":"INTERNATIONAL"}]}]}
+{"description":"INDIA.","sources":["http://141.95:8081/INDIA/index.m3u89"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTU0NDkxMjZf/india.jpg","title":"INDIA"}]}]}
+
+
+
 
 {"description":"Très cher Abonnés de BERO TV , Juste vous informer que pour des raisons d'entretiens techniques, toutes les chaînes seront indisponibles pendant 72h !!! Toutes nos excuses pour les désagréments causés indépendamment de notre volonté. Pour plus de détails, Veuillez nous contacter : congomonpays243@gmail.com","sources":["https://stream.zeno.fm/3rbd2vdzpqlvv.mp39"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODA3NDk0MjVf/urgent.jpg","title":"MESSAGE URGENT"},
